@@ -1,5 +1,5 @@
 # Data Pre-Processing & Visualization for Machine Learning  
-![alt text](<../unnamed (1).jpg>)
+![alt text](<./unnamed (1).jpg>)
 
 ### Live Workshop Resources — by M Fahad Bashir
 
